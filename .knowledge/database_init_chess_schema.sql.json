@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 8, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "2c884896d05b87e876dde3c88e55379d", "format-version": 4, "code-base-name": "database", "filename": "database/init_chess_schema.sql", "knowledge_revision": 16}
